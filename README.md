@@ -2,6 +2,17 @@
 
 - 🌱 I’m currently learning a Lakehouse architecture with Delta Lake
 
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+## My GitHub Stats
+
+<a href="https://github.com/piomin">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewKuzmin&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
+</a>
+
 <!--
 **AndrewKuzmin/AndrewKuzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
