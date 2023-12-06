@@ -14,7 +14,7 @@
 ## My GitHub Stats
 
 <a href="https://github.com/AndrewKuzmin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewKuzmin&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewKuzmin&show_icons=true&theme=light&line_height=27&include_all_commits=false&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKuzmin&hide=javascript)](https://github.com/AndrewKuzmin/github-readme-stats)
