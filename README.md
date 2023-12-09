@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning a Lakehouse architecture with Delta Lake
+- 🌱 I’m currently learning a Stream Processing by using Apache Kafka and Apache Flink
 
 ### 🛠 &nbsp;Tech Stack
 
